@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    // General Development & Infrastructure
+    "eamodio.gitlens",
+    "ms-azuretools.vscode-docker", // For Docker-related infrastructure
+    // Consider adding specific language extensions based on content (e.g., Python, JavaScript, Go, etc.)
+    // "ms-python.python",
+    // "hashicorp.terraform", // If using Terraform
+    // "redhat.vscode-yaml" // For YAML configuration files
+  ]
+}
